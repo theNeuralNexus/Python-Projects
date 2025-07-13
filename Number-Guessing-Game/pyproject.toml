@@ -1,0 +1,7 @@
+[project]
+name = "number-guessing-game"
+version = "0.1.0"
+description = "Guess the number randomly generated in 10 tries"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
